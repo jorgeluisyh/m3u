@@ -26,3 +26,8 @@ http://45.41.213.34:70/TSN1/index.m3u8
 http://45.41.213.34:70/TSN4/index.m3u8
 #EXTINF:-1 group-title="Bics COPA AMERICA", COPA AMERICA CA: TSN 3
 http://45.41.213.34:70/TSN5/index.m3u8
+
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sports (argentina)
+http://tv.proyectox.vip:8080/userfruto1/H2m3De4aMA/358817
+#EXTINF:-1 group-title="Bics DEPORTES",  direc tv sport 2 (argentina)
+http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
